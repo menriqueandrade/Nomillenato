@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "700970722309",
+    "project_id": "auth-persistence",
+    "storage_bucket": "auth-persistence.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700970722309:android:dd4777022dc38daaad286c",
+        "android_client_info": {
+          "package_name": "com.example.roles_auth_persistencia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700970722309-lkplcu0nsh4n5mta36cdj2smcmtff67p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.roles_auth_persistencia",
+            "certificate_hash": "471633aacb6afe74320b75a589386230930a3ac9"
+          }
+        },
+        {
+          "client_id": "700970722309-okm2lmfk5c07ohhb5u9137svrm7fn9vg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRDd4dvKrbRDumf_rAeVnXs1vNXBdgfe4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700970722309-okm2lmfk5c07ohhb5u9137svrm7fn9vg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
